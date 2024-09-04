@@ -21,6 +21,7 @@ class LinkedList:
 
 
 
+
 my_linked_list = LinkedList(4)
 
 print('Head:', my_linked_list.head.value)
